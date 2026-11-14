@@ -1,6 +1,8 @@
 German Electricity Consumption Analysis (Python, SQL & Power BI)
 End-to-end data analytics project examining hourly German electricity consumption, grid load, residual load, and pumped hydro demand across the German power grid (Jan–Oct 2026, 6,575 hourly records).
 
+![Power BI Dashboard](dashboard%20preview.png)
+
 Business Questions Answered:
 What are the monthly trends and peaks in total German grid load and residual load?
 
